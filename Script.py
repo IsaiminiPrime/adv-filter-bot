@@ -17,7 +17,7 @@ class script(object):
 - <a href=https://t.me/tamilrockermini>Isaimini Prime</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and I will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. Isaimini Prime should have admin privillage.
@@ -66,7 +66,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+these are the extra features of Isaimini Prime
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
